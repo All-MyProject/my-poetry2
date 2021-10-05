@@ -1,0 +1,199 @@
+body{
+    margin: 0;
+    margin-right: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.jab{
+    color: tomato;
+    font-weight: 900;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 3%;
+    text-align: justify;
+    transition: .7s;
+}
+.girlpic{
+    border-radius: 10px;
+}
+.my-image{
+    padding: 20px;
+    transition: .7s;
+
+}
+.my-image:hover{
+    transform: scale(1.2)
+}
+.half-width1{
+    align-items: center;
+    width: 40%;
+    float: left;
+    margin-top: 0;
+    margin-left: 100px;
+    padding: 3%;
+    text-align: justify;
+    transition: .7s;
+}
+.half-width1 img{
+    width: 70%;
+    margin-top: 10%;
+}
+.half-width1:hover{
+    transform: scale(1.2);
+}
+.half-width2{
+    width: 40%;
+    float: left;
+    margin-top: px;
+    text-align: justify;
+    
+    
+
+}
+.half-width3{
+    border-radius: 10px;
+    margin-top: 100px;
+}
+.half-width4{
+    margin-top: 100px;
+    border-radius: 10px;
+    
+}
+.half-width img{
+    width: 70%;
+    margin-top: ;
+}
+.top-b{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;  
+}    
+.bighight{
+    height:650px;
+    width: 1250px;
+    margin-top: 0px;
+
+}
+.bighight1{
+    height:450px;
+    width: 1250px;
+    margin-top: 0px;
+}
+.dream-img img{
+    margin-top: 0;
+    margin-left: 15%;
+}
+.separt{
+    background-image: url(images/biography-bg.png);
+
+
+}
+#lastpart{
+
+}
+
+.column{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 40px 40px 40px;
+}
+.imgraw{
+    padding: 20px;
+    transition: .7s;
+}
+.imgraw img{
+    border-radius: 8px;
+}
+.imgraw:hover{
+    transform: scale(1.2);
+    
+}
+h1{
+    text-align: center;
+}
+.mywork{
+    background-image: url(images/latest-work-bg.png);
+    background-size: 100%;
+    margin-top: 50px
+   background-size: 1250px 450px;
+}
+.mywork img{
+    
+}
+.lastpart{
+    background-image: url(images/footer-bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.lastpart img{
+    height: 1920px 1073px;
+}
+.client{
+    text-align: center;
+}
+.box{
+    background-color: #ec5093;
+    width: 480px;
+    width: 220;
+    padding: 10px;
+    margin: auto;
+    border-radius: 6px;
+    text-align: center;
+    transition: .7s;
+    background-image:scddaff; linear-gradient(45deg, lightsalmon, tomato);
+    
+}
+
+.text{
+    color: white;
+
+}
+footer{
+    text-align: center;
+    margin-bottom: 50px;
+}
+#What{
+    margin-bottom: 50px;
+}
+h5{
+    color: gray;
+    margin-top: -1;
+}
+.row{
+    margin-bottom:;
+    text-align: center;
+
+    
+}
+.Latest{
+    text-align: center;
+}
+.btext{
+    margin-top: 100px;
+}
+.jabedh{
+    margin-left: 50px;
+    margin-top: 100px;
+    font-weight: 1200;
+}
+.link{
+    background: ;
+}
+.link-b{
+    background: #ec5093;
+    text-decoration: none;
+    padding: 5px 15px 5px;
+    border-radius: 6px;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+  
+}
+.lastwork{
+    font-weight: 700;
+}
+
